@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/client-combined-3.5.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/guava-22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/jcommander-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jar/POI/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
