@@ -11,7 +11,7 @@ public class Driver {
 	@Test
 	
 	public static void testDriver() throws EncryptedDocumentException, InvalidFormatException, IOException, InterruptedException {
-		
+		//This is driver class
 		TesteBiz.initilize();
         TesteBiz.login();
         TesteBiz.managePage();
